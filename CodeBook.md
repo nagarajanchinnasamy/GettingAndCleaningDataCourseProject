@@ -1,5 +1,4 @@
-### Source Data
-===============
+# Source Data #
 
 To prepare the end result of this project, the source data was obtained from "Human Activity Recognition Using Smartphones Data Set" that is desribed here[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones].
 

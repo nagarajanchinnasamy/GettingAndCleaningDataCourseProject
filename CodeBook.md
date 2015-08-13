@@ -8,6 +8,10 @@ Set of files that are relevant for this course project are available [here](http
 
 # Variables #
 
+## ActivityName ##
+## Subject ##
+
+
 # Cleaned up data #
 
 # Transformation / Cleanup steps carried out #

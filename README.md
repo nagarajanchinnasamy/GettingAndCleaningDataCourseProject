@@ -16,7 +16,7 @@ The goal of this project is to prepare tidy data from the data obtained from abo
 # Code Book #
 -------------
 
-Code Book that explains the components of tidy data set and the transformations performed on the original dataset. It can be accessed [from here](https://github.com/nagarajanchinnasamy/GettingAndCleaningDataCourseProject/blob/master/CodeBook.md)
+Code Book explains the components of tidy data set and the transformations performed on the original dataset. It can be accessed [from here](https://github.com/nagarajanchinnasamy/GettingAndCleaningDataCourseProject/blob/master/CodeBook.md)
 
 # Analysis Script (run_analysis.R) #
 ------------------------------------

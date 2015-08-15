@@ -30,11 +30,6 @@ Indicates the activity recognized as performed by the subject. It takes one of t
 #### Subject ####
 Numerical identifier that unquely identifies a subject.
 
-#### SetType ####
-Code that indicates if this measurement row is obtained from training or test set. It takes one of the following values:
-- TRAIN
-- TEST
-
 #### Measure Variables ####
 Totally 66 numerical measure variables that show the average of each extracted variable grouped by each activity and each subject. E.g.: TimeBodyAcc_mean_X, TimeBodyAcc_mean_Y etc.
 

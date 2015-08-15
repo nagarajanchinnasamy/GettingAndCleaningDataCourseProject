@@ -1,5 +1,4 @@
 # Background #
---------------
 
 One of the most exciting areas in all of data science right now is wearable computing - see for example [this article](http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/). Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users.
 
@@ -14,17 +13,14 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 The goal of this project is to prepare independent tidy data set with the average of each variable for each activity and each subject to be able to use it for later analysis.
 
 # Code Book #
--------------
 
 Code Book explains the components of tidy data set and the transformations performed on the original dataset. It can be accessed [from here](https://github.com/nagarajanchinnasamy/GettingAndCleaningDataCourseProject/blob/master/CodeBook.md)
 
 # Analysis Script (run_analysis.R) #
-------------------------------------
 
 Transformations performed on original data set are programmed in an R script named  [run_analysis.R](https://github.com/nagarajanchinnasamy/GettingAndCleaningDataCourseProject/blob/master/run_analysis.R).
 
 # Tidy Data #
--------------
 
 Tidy data obtained after applying transformations is made [available here](https://github.com/nagarajanchinnasamy/GettingAndCleaningDataCourseProject/blob/master/tidy_data.txt)
 

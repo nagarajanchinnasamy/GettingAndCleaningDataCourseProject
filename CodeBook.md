@@ -31,7 +31,7 @@ Indicates the activity recognized as performed by the subject. It takes one of t
 Numerical identifier that unquely identifies a subject.
 
 #### Measure Variables ####
-Totally 66 numerical measure variables that show the average of each extracted variable grouped by each activity and each subject. E.g.: TimeBodyAcc_mean_X, TimeBodyAcc_mean_Y etc.
+Totally 66 numerical measure variables that show the average of each extracted variable grouped by each activity and each subject. E.g.: TimeBodyAcc_mean_X, TimeBodyAcc_mean_Y etc. For explanations on these variables, please refer to [README file of original data set](https://github.com/nagarajanchinnasamy/GettingAndCleaningDataCourseProject/blob/master/README.md)
 
 # Tidy data #
 

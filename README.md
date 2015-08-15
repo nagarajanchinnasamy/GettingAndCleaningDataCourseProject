@@ -1,14 +1,17 @@
 # Background #
+--------------
 
-One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: 
+One of the most exciting areas in all of data science right now is wearable computing - see for example [this article](http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/). Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users.
+
+Towards this, its important for these wearables to be able to recognize the activities performed by the users. One of the experiments conducted to gather data from the accelerometers from the Samsung Galaxy S smartphone is described at this site: 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-Here are the data for the project: 
+The data collected by this experiment is available at: 
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-The goal of this project is to prepare tidy data from the data obtained from above link that can be used for later analysis.
+The goal of this project is to prepare tidy data from the data obtained from above link to be able to use it for later analysis.
 
 # Code Book #
 -------------
@@ -18,4 +21,4 @@ Code Book that explains the components of tidy data set and the transformations 
 # Analysis Script (run_analysis.R) #
 ------------------------------------
 
-Transformations performed on original data set are programmed in an R script (run_analysis.R)
+Transformations performed on original data set are programmed in an R script named  [run_analysis.R](https://github.com/nagarajanchinnasamy/GettingAndCleaningDataCourseProject/blob/master/run_analysis.R).

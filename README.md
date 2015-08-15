@@ -11,7 +11,7 @@ The data collected by this experiment is available at:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-The goal of this project is to prepare tidy data from the data obtained from above link to be able to use it for later analysis.
+The goal of this project is to prepare independent tidy data set with the average of each variable for each activity and each subject to be able to use it for later analysis.
 
 # Code Book #
 -------------
@@ -22,3 +22,11 @@ Code Book explains the components of tidy data set and the transformations perfo
 ------------------------------------
 
 Transformations performed on original data set are programmed in an R script named  [run_analysis.R](https://github.com/nagarajanchinnasamy/GettingAndCleaningDataCourseProject/blob/master/run_analysis.R).
+
+# Tidy Data #
+-------------
+
+Tidy data obtained after applying transformations is made [available here](https://github.com/nagarajanchinnasamy/GettingAndCleaningDataCourseProject/blob/master/tidy_data.txt)
+
+--------------
+

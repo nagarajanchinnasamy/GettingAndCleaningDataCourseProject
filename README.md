@@ -18,7 +18,11 @@ Code Book explains the components of tidy data set and the transformations perfo
 
 # Analysis Script (run_analysis.R) #
 
-Transformations performed on original data set are programmed in an R script named  [run_analysis.R](https://github.com/nagarajanchinnasamy/GettingAndCleaningDataCourseProject/blob/master/run_analysis.R).
+Transformations performed on original data set are programmed in an R script named  [run_analysis.R](https://github.com/nagarajanchinnasamy/GettingAndCleaningDataCourseProject/blob/master/run_analysis.R). To run this script:
+
+1. Extract the original data set to a folder (E.g., .../getdata-projectfiles-UCI HAR Dataset)
+2. Copy run_analysis.R script inside the folder where original data was extracted to (E.g., .../getdata-projectfiles-UCI HAR Dataset)
+3. Execute run_analysis.R script.
 
 # Tidy Data #
 
